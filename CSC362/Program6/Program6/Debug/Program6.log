@@ -1,0 +1,3 @@
+﻿  Source.c
+c:\users\aschw\source\repos\program6\program6\source.c(46): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Program6.vcxproj -> C:\Users\aschw\source\repos\Program6\Debug\Program6.exe

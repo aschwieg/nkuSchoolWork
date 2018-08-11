@@ -1,0 +1,3 @@
+﻿  Source.c
+c:\users\aschw\source\repos\program2\program2\source.c(39): warning C4013: 'system' undefined; assuming extern returning int
+  Program2.vcxproj -> C:\Users\aschw\source\repos\Program2\Debug\Program2.exe

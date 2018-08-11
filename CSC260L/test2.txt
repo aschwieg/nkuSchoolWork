@@ -1,0 +1,7 @@
+2 2 third sixth
+4 4 in out
+1 1 Cubs Mets
+0 2 Gray Grey
+5 2 Cheviot Newport
+6 0 Grateful-Dead Jimi-Hendrix
+7 1 eye eyelid

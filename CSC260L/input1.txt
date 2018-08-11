@@ -1,0 +1,13 @@
+12 4
+Houston	Cincinnati	SMU	Connecticut
+North_Carolina	Virginia	Duke	Miami
+Dayton	VCU	St_Joseph	George_Washington
+Villanova	Xavier	Providence	Seton_Hall
+Indiana	Michigan_State	Maryland	Wisconsin
+Kansas	Oklahoma	West_Virginia	Iowa_State
+Middle_Tennessee	Louisiana_Tech	Western_Kentucky	Texas_San_Antonio
+Valparaiso	Cleveland_State	Oakland	Northern_Kentucky
+Northern_Illinois	Toledo	Akron	Buffalo
+Oregon	Utah	Arizona	UCLA
+Kentucky	Florida	Texas_A_M	South_Carolina
+Gonzaga	San_Diego	St_Marys	Santa_Clara
