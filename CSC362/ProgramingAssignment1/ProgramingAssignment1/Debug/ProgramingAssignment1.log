@@ -1,3 +1,1 @@
-﻿  Source.c
-c:\users\aschw\source\repos\programingassignment1\programingassignment1\source.c(85): warning C4013: 'system' undefined; assuming extern returning int
-  ProgramingAssignment1.vcxproj -> C:\Users\aschw\source\repos\ProgramingAssignment1\Debug\ProgramingAssignment1.exe
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.Cpp.WindowsSDK.targets(46,5): error MSB8036: The Windows SDK version 10.0.16299.0 was not found. Install the required version of Windows SDK or change the SDK version in the project property pages or by right-clicking the solution and selecting "Retarget solution".
