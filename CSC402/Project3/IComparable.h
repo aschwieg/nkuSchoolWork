@@ -149,7 +149,13 @@ public:
 	const IComparable& operator= (const IComparable& rhs) { /* TODO */
 	}
 
-	int compare(const IComparable& rhs) const {  /* TODO */
+	int compare(const IComparable& rhs) const {
+		if (value < dynamic_cast<const Character&>(rhs).value)
+			return -1;
+		else if (value > dynamic_cast<const Character&>(rhs).value)
+			return 1;
+		else
+			return 0;
 	}
 
 	void print(ostream& out = cout) const { out << value; }
