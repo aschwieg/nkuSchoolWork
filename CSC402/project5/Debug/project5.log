@@ -1,0 +1,8 @@
+﻿  Project5.cpp
+c:\users\aschw\workspace\nkuschoolwork\csc402\project5\project5.cpp(27): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\aschw\workspace\nkuschoolwork\csc402\project5\project5.cpp(31): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\aschw\workspace\nkuschoolwork\csc402\project5\project5.cpp(32): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\aschw\workspace\nkuschoolwork\csc402\project5\project5.cpp(124): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\aschw\workspace\nkuschoolwork\csc402\project5\project5.cpp(212): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\aschw\workspace\nkuschoolwork\csc402\project5\project5.cpp(232): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  project5.vcxproj -> C:\Users\aschw\Workspace\nkuSchoolWork\CSC402\project5\Debug\project5.exe
