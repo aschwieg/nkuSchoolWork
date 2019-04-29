@@ -1,0 +1,1 @@
+INSERT INTO SALES (VIN, SALE_PRICE, DATE_SOLD, DEALER_ID, CUSTOMER_ID) VALUES (:vin, :sale_price, :date_sold, :dealer_id, :customer_id)

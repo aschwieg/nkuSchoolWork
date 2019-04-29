@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b075012-cd8b-4779-a195-445d647ee6b1" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/sample_project$PokerGameTest.ic" NAME="PokerGameTest Coverage Results" MODIFIED="1550529442250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="115" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="C:\Users\aschw\Desktop\CSC439 Poker Hands Kata - Alex Schwiegeraht" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/PokerGameTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="215" column="27" selection-start-line="215" selection-start-column="27" selection-end-line="215" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Game.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="782">
+              <caret line="118" column="28" selection-start-line="118" selection-start-column="28" selection-end-line="118" selection-end-column="28" />
+              <folding>
+                <element signature="method#Game#0;class#Game#0" />
+                <element signature="e#1633#1719#1" />
+                <element signature="e#1781#1868#1" />
+                <element signature="e#1926#3000#1" />
+                <element signature="e#1984#2842#1" />
+                <element signature="e#2878#2925#1" />
+                <element signature="e#3056#3132#1" />
+                <element signature="e#3182#3252#1" />
+                <element signature="e#3316#3405#1" />
+                <element signature="e#3948#4318#1" />
+                <element signature="e#4453#4823#1" />
+                <element signature="e#5114#5639#1" />
+                <element signature="e#5700#5770#1" />
+                <element signature="e#5835#5906#1" />
+                <element signature="e#6110#6173#1" />
+                <element signature="e#6199#6262#1" />
+                <element signature="e#6605#6652#1" />
+                <element signature="e#6710#6783#1" />
+                <element signature="e#6797#7116#1" />
+                <element signature="method#checkWin#0;class#Game#0" />
+                <element signature="method#checkMatchWin#0;class#Game#0" />
+                <element signature="e#9099#9153#1" />
+                <element signature="e#9234#9289#1" />
+                <element signature="e#9311#9366#1" />
+                <element signature="e#9447#9494#1" />
+                <element signature="e#9512#9559#1" />
+                <element signature="e#9601#9640#1" />
+                <element signature="method#hasPair#0;class#Game#0" />
+                <element signature="method#hasTwoPair#0;class#Game#0" />
+                <element signature="method#hasThreeOfAKind#0;class#Game#0" />
+                <element signature="method#hasFullHouse#0;class#Game#0" />
+                <element signature="method#hasFourOfAKind#0;class#Game#0" />
+                <element signature="method#hasStraightFlush#0;class#Game#0" />
+                <element signature="method#hasFlush#0;class#Game#0" />
+                <element signature="method#hasStraight#0;class#Game#0" />
+                <element signature="method#print#0;class#Game#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>full</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/PokerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Card.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Game.java" />
+        <option value="$PROJECT_DIR$/src/test/java/PokerGameTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="width" value="1146" />
+    <option name="height" value="1455" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sample.project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CSC439" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550529846495" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/CSC439 Poker Hands Kata - Alex Schwiegeraht" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="com.google.cloud.tools.intellij.appengine.java.sdk.CloudSdkConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.PokerGameTest">
+    <configuration name="PokerGameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sample.project.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PokerGameTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PokerGameTest.givenHandWithTwoPairAndHandWithTwoPairAndSecondPairIsHigher_whenScoreHands_thenHighSecondPairWins" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sample.project.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PokerGameTest" />
+      <option name="METHOD_NAME" value="givenHandWithTwoPairAndHandWithTwoPairAndSecondPairIsHigher_whenScoreHands_thenHighSecondPairWins" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PokerGameTest.givenHandWithTwoPairAndHandWithTwoPairAndWhiteHandSecondPairIsHigher_whenScoreHands_thenWhiteWins" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sample.project.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PokerGameTest" />
+      <option name="METHOD_NAME" value="givenHandWithTwoPairAndHandWithTwoPairAndWhiteHandSecondPairIsHigher_whenScoreHands_thenWhiteWins" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PokerGameTest.givenHandWithTwoPairAndHandWithTwoPairAndWhiteWithSameHighCard_whenScoreHands_thenWhiteWins" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sample.project.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PokerGameTest" />
+      <option name="METHOD_NAME" value="givenHandWithTwoPairAndHandWithTwoPairAndWhiteWithSameHighCard_whenScoreHands_thenWhiteWins" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PokerGameTest.givenWhiteHandsWithFullHouseAndBlackHandWithHighCard_whenScoreHands_thenWhiteWins" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sample.project.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PokerGameTest" />
+      <option name="METHOD_NAME" value="givenWhiteHandsWithFullHouseAndBlackHandWithHighCard_whenScoreHands_thenWhiteWins" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PokerGameTest" />
+        <item itemvalue="JUnit.PokerGameTest.givenHandWithTwoPairAndHandWithTwoPairAndWhiteHandSecondPairIsHigher_whenScoreHands_thenWhiteWins" />
+        <item itemvalue="JUnit.PokerGameTest.givenHandWithTwoPairAndHandWithTwoPairAndSecondPairIsHigher_whenScoreHands_thenHighSecondPairWins" />
+        <item itemvalue="JUnit.PokerGameTest.givenHandWithTwoPairAndHandWithTwoPairAndWhiteWithSameHighCard_whenScoreHands_thenWhiteWins" />
+        <item itemvalue="JUnit.PokerGameTest.givenWhiteHandsWithFullHouseAndBlackHandWithHighCard_whenScoreHands_thenWhiteWins" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b075012-cd8b-4779-a195-445d647ee6b1" name="Default Changelist" comment="" />
+      <created>1549934793120</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549934793120</updated>
+      <workItem from="1549934801715" duration="3562000" />
+      <workItem from="1550181711235" duration="33773000" />
+      <workItem from="1550511650482" duration="263000" />
+      <workItem from="1550526271208" duration="3923000" />
+      <workItem from="1550544935673" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="PokerGameTest_givenTwoHandsWithFullHouseAndWhiteHasTheHighCard_whenScoreHands_thenWhiteWins - 2019.02.18 at 16h 58m 49s.xml">
+      <configuration name="PokerGameTest.givenTwoHandsWithFullHouseAndWhiteHasTheHighCard_whenScoreHands_thenWhiteWins" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PokerGameTest_givenWhiteHandsWithFullHouseAndBlackHandWithHighCard_whenScoreHands_thenWhiteWins - 2019.02.18 at 17h 00m 37s.xml">
+      <configuration name="PokerGameTest.givenWhiteHandsWithFullHouseAndBlackHandWithHighCard_whenScoreHands_thenWhiteWins" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PokerGameTest - 2019.02.18 at 17h 00m 59s.xml">
+      <configuration name="PokerGameTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PokerGameTest_givenHandWithTwoPairAndHandWithTwoPairAndWhiteWithSameHighCard_whenScoreHands_thenWhiteWins - 2019.02.18 at 17h 23m 48s.xml">
+      <configuration name="PokerGameTest.givenHandWithTwoPairAndHandWithTwoPairAndWhiteWithSameHighCard_whenScoreHands_thenWhiteWins" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PokerGameTest_givenHandWithTwoPairAndHandWithTwoPairAndWhiteWithSameHighCard_whenScoreHands_thenWhiteWins - 2019.02.18 at 17h 24m 04s.xml">
+      <configuration name="PokerGameTest.givenHandWithTwoPairAndHandWithTwoPairAndWhiteWithSameHighCard_whenScoreHands_thenWhiteWins" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PokerGameTest - 2019.02.18 at 17h 26m 03s.xml">
+      <configuration name="PokerGameTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PokerGameTest_givenHandWithTwoPairAndHandWithTwoPairAndSecondPairIsHigher_whenScoreHands_thenHighSecondPairWins - 2019.02.18 at 17h 35m 43s.xml">
+      <configuration name="PokerGameTest.givenHandWithTwoPairAndHandWithTwoPairAndSecondPairIsHigher_whenScoreHands_thenHighSecondPairWins" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PokerGameTest_givenHandWithTwoPairAndHandWithTwoPairAndWhiteHandSecondPairIsHigher_whenScoreHands_thenWhiteWins - 2019.02.18 at 17h 36m 35s.xml">
+      <configuration name="PokerGameTest.givenHandWithTwoPairAndHandWithTwoPairAndWhiteHandSecondPairIsHigher_whenScoreHands_thenWhiteWins" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PokerGameTest_givenHandWithTwoPairAndHandWithTwoPairAndWhiteHandSecondPairIsHigher_whenScoreHands_thenWhiteWins - 2019.02.18 at 17h 36m 40s.xml">
+      <configuration name="PokerGameTest.givenHandWithTwoPairAndHandWithTwoPairAndWhiteHandSecondPairIsHigher_whenScoreHands_thenWhiteWins" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PokerGameTest - 2019.02.18 at 17h 37m 28s.xml">
+      <configuration name="PokerGameTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="41532000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1519" height="977" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16929404" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289941" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3289941" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.3289941" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Duplicate detector" order="14" weight="0.3289941" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Google Cloud Storage" order="5" weight="0.32967785" />
+      <window_info anchor="right" id="Gradle" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Capture Analysis" order="10" />
+      <window_info anchor="right" id="Coverage" order="11" side_tool="true" visible="true" weight="0.26936257" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Card.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/PokerGameTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="215" column="27" selection-start-line="215" selection-start-column="27" selection-end-line="215" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="118" column="28" selection-start-line="118" selection-start-column="28" selection-end-line="118" selection-end-column="28" />
+          <folding>
+            <element signature="method#Game#0;class#Game#0" />
+            <element signature="e#1633#1719#1" />
+            <element signature="e#1781#1868#1" />
+            <element signature="e#1926#3000#1" />
+            <element signature="e#1984#2842#1" />
+            <element signature="e#2878#2925#1" />
+            <element signature="e#3056#3132#1" />
+            <element signature="e#3182#3252#1" />
+            <element signature="e#3316#3405#1" />
+            <element signature="e#3948#4318#1" />
+            <element signature="e#4453#4823#1" />
+            <element signature="e#5114#5639#1" />
+            <element signature="e#5700#5770#1" />
+            <element signature="e#5835#5906#1" />
+            <element signature="e#6110#6173#1" />
+            <element signature="e#6199#6262#1" />
+            <element signature="e#6605#6652#1" />
+            <element signature="e#6710#6783#1" />
+            <element signature="e#6797#7116#1" />
+            <element signature="method#checkWin#0;class#Game#0" />
+            <element signature="method#checkMatchWin#0;class#Game#0" />
+            <element signature="e#9099#9153#1" />
+            <element signature="e#9234#9289#1" />
+            <element signature="e#9311#9366#1" />
+            <element signature="e#9447#9494#1" />
+            <element signature="e#9512#9559#1" />
+            <element signature="e#9601#9640#1" />
+            <element signature="method#hasPair#0;class#Game#0" />
+            <element signature="method#hasTwoPair#0;class#Game#0" />
+            <element signature="method#hasThreeOfAKind#0;class#Game#0" />
+            <element signature="method#hasFullHouse#0;class#Game#0" />
+            <element signature="method#hasFourOfAKind#0;class#Game#0" />
+            <element signature="method#hasStraightFlush#0;class#Game#0" />
+            <element signature="method#hasFlush#0;class#Game#0" />
+            <element signature="method#hasStraight#0;class#Game#0" />
+            <element signature="method#print#0;class#Game#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

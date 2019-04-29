@@ -1,0 +1,4 @@
+DELETE FROM 
+    INVENTORY
+WHERE
+    VIN =:vin
