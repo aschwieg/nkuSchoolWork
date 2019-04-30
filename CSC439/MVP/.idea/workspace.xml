@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f5b7785d-bcd8-44ce-9600-a73aa6cb85f6" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/PresenterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/StudentRepositoryImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Person.java" />
+        <option value="$PROJECT_DIR$/src/test/java/StudentRepositoryTest.java" />
+        <option value="$PROJECT_DIR$/src/data/studentData.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/Repository.java" />
+        <option value="$PROJECT_DIR$/src/test/java/RepositoryTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Student.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Instructor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/StudentRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Presenter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/View.java" />
+        <option value="$PROJECT_DIR$/src/main/java/main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/InstructorRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MVP.java" />
+        <option value="$PROJECT_DIR$/src/test/java/RepositoryMockitoTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/PresenterMockitoTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/PresenterTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ViewTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ViewMockitoTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="width" value="1149" />
+    <option name="height" value="1455" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MVP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MVP" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="MVP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MVP" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MVP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MVP" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="MVP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MVP" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MVP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MVP" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="MVP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MVP" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554766169577" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jabref" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="com.google.cloud.tools.intellij.appengine.java.sdk.CloudSdkConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\aschw\Workspace\MVP\src\test\resources" />
+      <recent name="C:\Users\aschw\Workspace\MVP\src\test\resources\file" />
+      <recent name="C:\Users\aschw\Workspace\MVP\src\test\java" />
+      <recent name="C:\Users\aschw\Workspace\MVP\src\main\java" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\aschw\Workspace\MVP\src\main\resources" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ViewMockitoTest.givenView_whenCallDisplayData_thenDataPrintedToConsole">
+    <configuration name="MVP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MVP" />
+      <module name="MVP.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PresenterTest.givenDefaultRepository_whenSort_thenListSorted" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;PresenterTest.givenDefaultRepository_whenSort_thenListSorted&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="PresenterTest.givenPresenter_whenSortPeople_thenSortedProperly" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MVP.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PresenterTest" />
+      <option name="METHOD_NAME" value="givenPresenter_whenSortPeople_thenSortedProperly" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PresenterTest.givenPresenter_whenToStringStudents_thenAListOfStudentStringsIsReturned" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MVP.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PresenterTest" />
+      <option name="METHOD_NAME" value="givenPresenter_whenToStringStudents_thenAListOfStudentStringsIsReturned" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ViewMockitoTest.givenView_whenCallDisplayData_thenDataPrintedToConsole" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MVP.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ViewMockitoTest" />
+      <option name="METHOD_NAME" value="givenView_whenCallDisplayData_thenDataPrintedToConsole" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ViewMockitoTest.givenView_whenCallDisplayData_thenDataPrintedToConsole" />
+        <item itemvalue="JUnit.PresenterTest.givenPresenter_whenToStringStudents_thenAListOfStudentStringsIsReturned" />
+        <item itemvalue="JUnit.PresenterTest.givenPresenter_whenSortPeople_thenSortedProperly" />
+        <item itemvalue="Application.MVP" />
+        <item itemvalue="Gradle.PresenterTest.givenDefaultRepository_whenSort_thenListSorted" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5b7785d-bcd8-44ce-9600-a73aa6cb85f6" name="Default Changelist" comment="" />
+      <created>1553556314148</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553556314148</updated>
+      <workItem from="1553556320815" duration="5465000" />
+      <workItem from="1554054525850" duration="48000" />
+      <workItem from="1554151556507" duration="17895000" />
+      <workItem from="1554256208993" duration="2689000" />
+      <workItem from="1554565347975" duration="53000" />
+      <workItem from="1554565591290" duration="23000" />
+      <workItem from="1554757774014" duration="6334000" />
+      <workItem from="1555172948948" duration="194000" />
+      <workItem from="1555173517311" duration="7949000" />
+      <workItem from="1555258212723" duration="3053000" />
+      <workItem from="1555268963418" duration="61000" />
+      <workItem from="1555696293815" duration="80000" />
+      <workItem from="1556232312743" duration="41000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="PresenterTest_givenPresenter_whenSortPeople_thenSortedProperly - 2019.04.13 at 17h 20m 00s.xml">
+      <configuration name="PresenterTest.givenPresenter_whenSortPeople_thenSortedProperly" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="ViewTest_givenView_whenCallDisplayData_thenDataPrintedToConsole - 2019.04.13 at 17h 20m 19s.xml">
+      <configuration name="ViewTest.givenView_whenCallDisplayData_thenDataPrintedToConsole" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="ViewTest_givenView_whenCallDisplayData_thenDataPrintedToConsole - 2019.04.13 at 17h 21m 46s.xml">
+      <configuration name="ViewTest.givenView_whenCallDisplayData_thenDataPrintedToConsole" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="PresenterTest_givenDefaultRepository_whenSort_thenListSorted - 2019.04.13 at 17h 26m 15s.xml">
+      <configuration name="PresenterTest.givenDefaultRepository_whenSort_thenListSorted" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="ViewTest_givenView_whenCallDisplayData_thenDataPrintedToConsole - 2019.04.13 at 17h 34m 02s.xml">
+      <configuration name="ViewTest.givenView_whenCallDisplayData_thenDataPrintedToConsole" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="PresenterTest_givenDefaultRepository_whenSort_thenListSorted - 2019.04.13 at 17h 34m 53s.xml">
+      <configuration name="PresenterTest.givenDefaultRepository_whenSort_thenListSorted" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="PresenterTest_givenPresenter_whenSortPeople_thenSortedProperly - 2019.04.14 at 12h 20m 06s.xml">
+      <configuration name="PresenterTest.givenPresenter_whenSortPeople_thenSortedProperly" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PresenterTest_givenPresenter_whenSortPeople_thenSortedProperly - 2019.04.14 at 12h 22m 37s.xml">
+      <configuration name="PresenterTest.givenPresenter_whenSortPeople_thenSortedProperly" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PresenterTest_givenPresenter_whenToStringStudents_thenAListOfStudentStringsIsReturned - 2019.04.14 at 12h 25m 36s.xml">
+      <configuration name="PresenterTest.givenPresenter_whenToStringStudents_thenAListOfStudentStringsIsReturned" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ViewMockitoTest_givenView_whenCallDisplayData_thenDataPrintedToConsole - 2019.04.14 at 12h 46m 51s.xml">
+      <configuration name="ViewMockitoTest.givenView_whenCallDisplayData_thenDataPrintedToConsole" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="43885000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1519" height="977" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16381083" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4996573" weight="0.3195266" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3289941" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5003427" side_tool="true" weight="0.3195266" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3289941" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.1469534" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Google Cloud Storage" order="5" show_stripe_button="false" />
+      <window_info anchor="right" id="Gradle" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Capture Analysis" order="10" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15627141" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4996573" visible="true" weight="0.3195266" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3289941" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5003427" side_tool="true" weight="0.3195266" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3289941" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.1469534" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Google Cloud Storage" order="5" show_stripe_button="false" />
+      <window_info anchor="right" id="Gradle" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Capture Analysis" order="10" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/gradlew">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="62" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StudentRepositoryImpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/studentData.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/studentData.txt" />
+    <entry file="file://$PROJECT_DIR$/out/test/resources/studentData.txt" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="938" selection-start-line="938" selection-end-line="938" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="142" selection-start-line="142" selection-end-line="142" />
+          <folding>
+            <element signature="e#5728#5729#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Instructor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+          <folding>
+            <element signature="method#Instructor#0;class#Instructor#0" />
+            <element signature="method#Instructor#1;class#Instructor#0" />
+            <element signature="e#610#611#0" expanded="true" />
+            <element signature="e#660#661#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Repository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MVP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+          <folding>
+            <element signature="e#115#127#0" expanded="true" />
+            <element signature="e#228#237#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/InstructorRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/RepositoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StudentRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="58" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="23" column="83" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="83" />
+          <folding>
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#473#474#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Presenter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Presenter#0;class#Presenter#0" />
+            <element signature="e#585#593#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ViewMockitoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/PresenterMockitoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="22" column="45" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ViewTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/View.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/PresenterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
